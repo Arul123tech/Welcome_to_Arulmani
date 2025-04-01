@@ -1,0 +1,42 @@
+
+
+
+
+
+
+
+WebElement-I
+
+Sendkeys-m
+click-m
+clear-m
+getText()-m
+getAttribute()-m
+
+WebDriver-I
+
+findElement-m
+get-m
+getTitle-m
+
+
+
+text
+
+=====
+//tagName[text()='textvalue']
+
+Contains
+=======
+//tagName[contanis(text(),'partiallytext')]
+
+getText-m
+==========
+It is used to print already existing text in webpage
+
+getAttribute-m
+============
+Used to print corresponding attribute values.
+
+questions:
+How will you retrieve the values from the textbox?
